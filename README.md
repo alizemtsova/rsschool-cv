@@ -1,3 +1,3 @@
 # rsschool-cv
 Curriculum Vitae
-https://alizemtsova.github.io/rsschool-cv/cv
+[https://alizemtsova.github.io/rsschool-cv/cv]
