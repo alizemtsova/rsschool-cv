@@ -73,21 +73,18 @@ Kaliningrad, Russia
 ### Projects 
 *(done during Codecademy course)*
 
-**Business website**   
+[**Business website**](https://github.com/alizemtsova/Business-site)   
 In this project, I created a fictional company website. I practiced using the flexbox model.
-https://github.com/alizemtsova/Business-site
 
-**Excursion Project**   
+[**Excursion Project**](https://github.com/alizemtsova/Excursion)   
 In this project, I created a web page which advertises a product called “Excursion.” I was implementing my knowledge of HTML, CSS, Command Line Interface, Git, and GitHub. 
 The web page advertises a mobile app which helps users record and share their experiences, so the video and landscape imagery were used to set the scene. 
-https://github.com/alizemtsova/Excursion
 
-**Colmar Academy**   
+[**Colmar Academy**](https://github.com/alizemtsova/Colmar-academy)   
 This is a final study project done on the “Build a Website with HTML, CSS, and Github Pages” course by Codecademy.
 
 I was tasked with designing and creating the landing page for a new school specified by the wireframes.
 Working on this project allowed me to demonstrate all the skills developed on the course (building HTML layouts, styling with CSS and using Git, Github, and deploying my project using Github pages).
-https://github.com/alizemtsova/Colmar-academy
 
 
 ### References
