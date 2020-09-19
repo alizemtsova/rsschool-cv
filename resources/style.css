@@ -5,6 +5,10 @@
     margin: 1em;
 }
 
+.nav {
+    margin-bottom: 30px;
+}
+
 .nav ul {
     display: flex;
     flex-direction: row;
@@ -33,4 +37,57 @@
 
 .main-container {
     display: flex;
+}
+
+.about-me {
+    background-color: #ECECEC;
+}
+
+.main-container h1 {
+    font-size: 3em;
+    font-weight: 700;
+    line-height: normal;
+    color: #AE0A61;
+
+}
+
+.main-container h2 {
+    font-size: 2em;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.main-container h4 {
+    font-size: 1.5em;
+    font-weight: 600;
+    line-height: normal;
+    color: #AE0A61;
+    margin-top: 20px;
+}
+
+
+.about-me {
+    padding: 20px;
+    width: 300px;
+}
+
+.image {
+    position: relative;
+    left: 50px;
+    top: 20px;
+    margin-bottom: 40px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.text-link {
+    text-decoration: none;
+    color: #AE0A61;
+    font-weight: bold;
+}
+
+.main-info {
+    margin-left: 150px;
 }
