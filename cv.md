@@ -46,43 +46,43 @@ German (A2)
 Spanish (A1)
 
 ### Employment
-Current job
+*Current job*
 InterPress International House
 English Second Language Teacher
 InterPress International House
 Sep 2018 – Present
 Almaty, Kazakhstan
 
-### Previous experience
+*Previous experience*
 English Second Language Teacher
 Russian and English languages, Literature, Journalism teacher
 Graphic design teacher
 Sep 2007 - Jul 2018
 Public and Language schools in Kaliningrad, Russia
 
-Teaching allowed me to master my skills in subjects I tought; I learned to communicate with different social groups, analyse their needs, respond to their problems and requests effectively, resolve conflicts, notice and analyse social behaviour; collaborate and liaise with colleagues, management and administration staff.
+*Teaching allowed me to master my skills in subjects I tought; I learned to communicate with different social groups, analyse their needs, respond to their problems and requests effectively, resolve conflicts, notice and analyse social behaviour; collaborate and liaise with colleagues, management and administration staff.*
 
-Graphic designer
+* Graphic designer
 Freelance and employed ("Profi", business newspaper; "Vash vybor", magazine; "Zhizn", weekly tabloid
 Jan 2007 – May 2017
 Kaliningrad, Russia
 
-I learned to make visually appealing page layouts; liaised with clients to determine their requirements; mastered photo-editing and layout applications; developed a website using CMS; was analysing modern design trends; worked according to plan and met deadlines. 
+*I learned to make visually appealing page layouts; liaised with clients to determine their requirements; mastered photo-editing and layout applications; developed a website using CMS; was analysing modern design trends; worked according to plan and met deadlines.*
 
 
 ### Projects 
-(done during Codecademy course)
+*(done during Codecademy course)*
 
-Business website
+**Business website**
 In this project, I created a fictional company website. I practiced using the flexbox model.
 https://github.com/alizemtsova/Business-site
 
-Excursion Project
+**Excursion Project**
 In this project, I created a web page which advertises a product called “Excursion.” I was implementing my knowledge of HTML, CSS, Command Line Interface, Git, and GitHub. 
 The web page advertises a mobile app which helps users record and share their experiences, so the video and landscape imagery were used to set the scene. 
 https://github.com/alizemtsova/Excursion
 
-Colmar Academy
+**Colmar Academy**
 This is a final study project done on the “Build a Website with HTML, CSS, and Github Pages” course by Codecademy.
 
 I was tasked with designing and creating the landing page for a new school specified by the wireframes.
