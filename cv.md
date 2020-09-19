@@ -1,21 +1,21 @@
-Curriculum Vitae
-Alexandra Zemtsova
+# Curriculum Vitae
+# Alexandra Zemtsova
 
-Contact information
+### Contact information
 Address: 050031 Almaty, Aksay-2, 1-19
 Tel: +7747 520 35 54, +7909 789 07 98 (WhatsApp)
 Email: ali.zemtsova@gmail.com
 LinkedIn: https://www.linkedin.com/in/alizemtsova/
 Github: https://github.com/alizemtsova
 
-Personal information
+### Personal information
 Date of Birth: 10.01.1990
 Nationality: Russian
 
-About me
+### About me
 I am a person of several career paths. I have been constantly looking for a profession which would allow me to implement my skills, experience and knowledge; to grow professionally and expand my knowledge; to be valued and treated equally. I believe stepping into the tech world can give this opportunity. My main strengths are good communication skills, patience, listening to others, effective collaboration, team work, critical observation, creativity, research, willingness to learn, self-management, attention to detail, meeting deadlines. 
 
-Qualifications
+### Qualifications
 Saint-Petersburg Academic University of Management and Economics
 Public Relations 
 June 2014
@@ -36,7 +36,7 @@ HarvardX - CS50
 CS50's Introduction to Computer Science
 Currently studying
 
-Skills
+### Skills
 HTML, CSS, JavaScript
 Git
 Visual Studio Code
@@ -45,7 +45,7 @@ English (C1) - IELTS Academic (8.0, Mar 2019)
 German (A2)
 Spanish (A1)
 
-Employment
+### Employment
 Current job
 InterPress International House
 English Second Language Teacher
@@ -53,7 +53,7 @@ InterPress International House
 Sep 2018 – Present
 Almaty, Kazakhstan
 
-Previous experience
+### Previous experience
 English Second Language Teacher
 Russian and English languages, Literature, Journalism teacher
 Graphic design teacher
@@ -70,7 +70,8 @@ Kaliningrad, Russia
 I learned to make visually appealing page layouts; liaised with clients to determine their requirements; mastered photo-editing and layout applications; developed a website using CMS; was analysing modern design trends; worked according to plan and met deadlines. 
 
 
-Projects (done during Codecademy course)
+### Projects 
+(done during Codecademy course)
 
 Business website
 In this project, I created a fictional company website. I practiced using the flexbox model.
@@ -89,8 +90,7 @@ Working on this project allowed me to demonstrate all the skills developed on th
 https://github.com/alizemtsova/Colmar-academy
 
 
-References
-
+### References
 Branislava Jovanovic
 Director Of Studies
 InterPress International House
