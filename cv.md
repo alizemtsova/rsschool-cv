@@ -2,7 +2,7 @@
 # Alexandra Zemtsova
 
 ### Contact information
-**Address:** 050031 Almaty, Aksay-2, 1-19   
+**Address:** 050031 Kazakstan, Almaty, Aksay-2, 1-19   
 **Tel:** +7747 520 35 54, +7909 789 07 98 (WhatsApp)   
 **Email:** ali.zemtsova@gmail.com   
 **LinkedIn:** https://www.linkedin.com/in/alizemtsova/   
